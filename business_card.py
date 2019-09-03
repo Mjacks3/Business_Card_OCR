@@ -22,7 +22,6 @@ class ContactInfo:
                             self.name = " ".join(str(piece) for piece in line.split()[1:])
                             
                             
-                            
         #Use nltk's named entity parsing to best identify human names from the input
         #Not always accurate:
         # Some human names and nonhuman names might not be accepted
