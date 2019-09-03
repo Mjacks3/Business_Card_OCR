@@ -1,4 +1,7 @@
-To run, input business card text inside of "input.txt" and business_card.py in ide/terminal/command_line .
+To run, input business card text inside of "input.txt".
+
+Then run business_card.py inside of your favorite ide/terminal/command_line.
+
 Requirements: Python 3, nltk 
 
 
