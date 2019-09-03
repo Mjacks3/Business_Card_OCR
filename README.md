@@ -4,7 +4,7 @@ Requirements: Python 3, nltk
 
 
 Problem Specification
-##Business Card OCR
+Business Card OCR
 
 We’ve created a new smartphone app that enables users to snap a photo of a business card and have the information from the card automatically extracted and added to their contact list. We need you to write the component that parses the results of the optical character recognition (OCR) component in order to extract the name, phone number, and email address from the processed business card image.
 
